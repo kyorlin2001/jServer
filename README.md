@@ -1,5 +1,7 @@
+A client-server messaging system developed as part of IT-620 at Southern New Hampshire University.  Focuses on Socket Programming, Concurrency, and Java Networking.
+
 # jServer
-A simple chat server for SNHU IT-620.
+
 <br>1. The Source is the application of the server side including class of ServerFrame, Message, SocketFrame, Database, ServerDice, BanAuthorization, Decorate, EarnCreadit, GroupPrize, User, saveAdapter</br>
 It also includes the save.cpp/save.o files for use with the adapter class which are written in C.
   <br>2. The User class will use an iterator class as well as use an adapter pattern to save and load the user files.
